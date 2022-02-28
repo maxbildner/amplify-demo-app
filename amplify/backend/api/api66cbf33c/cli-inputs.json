@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/getimages": {
+      "name": "/getimages",
+      "lambdaFunction": "GetImagesHandler",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
